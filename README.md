@@ -2,7 +2,8 @@
 
 Interactive sorting algorithm visualizer. Watch 8 algorithms sort in real-time with detailed step-by-step breakdown.
 
-**Live:** https://YOUR_USERNAME.github.io/algorithm-lab  
+**Live:** [https://hamidbasri.github.io/sorting-lab/](https://hamidbasri.github.io/sorting-lab/)  
+<!-- open in new tab -->
 **By:** [Hamid Basri](https://basri.co.uk) — [GitHub](https://github.com/hamidbasri)
 
 ## What's Inside
